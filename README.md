@@ -9,13 +9,13 @@ Y las funciones utilizadas para resolver los ejercicios se encuentran en la carp
 
 ## Estructura del proyecto
 
-python-jupyter-notebook\
-    notebooks\
-        ...
-    src\
-        utils.py
-    README.txt
-    .gitignore
+python-jupyter-notebook
+|-- notebooks
+    |-- ...
+|-- src
+    |-- utils.py
+|-- README.txt
+|-- .gitignore
 
 ## Requisitos previos
 ** Python 3.12.9 **
